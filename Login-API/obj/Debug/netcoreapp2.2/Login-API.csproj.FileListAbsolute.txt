@@ -1,0 +1,14 @@
+C:\Users\ASUS\Login\Login-API\bin\Debug\netcoreapp2.2\Login-API.deps.json
+C:\Users\ASUS\Login\Login-API\bin\Debug\netcoreapp2.2\Login-API.runtimeconfig.json
+C:\Users\ASUS\Login\Login-API\bin\Debug\netcoreapp2.2\Login-API.runtimeconfig.dev.json
+C:\Users\ASUS\Login\Login-API\bin\Debug\netcoreapp2.2\Login-API.dll
+C:\Users\ASUS\Login\Login-API\bin\Debug\netcoreapp2.2\Login-API.pdb
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.csprojAssemblyReference.cache
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.RazorAssemblyInfo.cache
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.RazorAssemblyInfo.cs
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.AssemblyInfo.cs
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.dll
+C:\Users\ASUS\Login\Login-API\obj\Debug\netcoreapp2.2\Login-API.pdb
